@@ -1,0 +1,5 @@
+# candy01
+The app.py file initialize:
+- Flask application
+- SQLALCHEMY
+- 
