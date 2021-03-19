@@ -10,7 +10,7 @@ Flask-SQLAlchemy==2.2
 gunicorn==19.7.1
 html5lib==0.999
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 pycurl==7.19.3
 python-gnupg==0.3.6
