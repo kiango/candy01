@@ -16,7 +16,7 @@ pycurl==7.19.3
 python-gnupg==0.3.6
 pyxdg==0.25
 PyYAML==3.10
-requests==2.2.1
+requests==2.20.0
 six==1.5.2
 SQLAlchemy==1.1.13
 urllib3==1.7.1
